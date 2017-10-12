@@ -1,0 +1,15 @@
+{
+    "title": "New Project 4",
+    "baseURL": "https:\/\/newproject4.com\/newproject4",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/newproject4",
+        "firstpartycookies": true,
+        "cookiedomain": "newproject4.com"
+    }
+}
